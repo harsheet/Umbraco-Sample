@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="umbracoDbDSN-Web.config Connection String" value="server=localhost;database=TestDB2;user id=sqladmin;password=Password1234" />
+  <setParameter name="MediaPath" value="media" />
+  <setParameter name="customErrors Mode" value="Off" />
+</parameters>

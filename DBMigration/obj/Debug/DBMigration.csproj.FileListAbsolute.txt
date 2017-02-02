@@ -1,0 +1,8 @@
+C:\Sample\WebApplication1\DBMigration\bin\Debug\DBMigration.exe.config
+C:\Sample\WebApplication1\DBMigration\bin\Debug\DBMigration.exe
+C:\Sample\WebApplication1\DBMigration\bin\Debug\DBMigration.pdb
+C:\Sample\WebApplication1\DBMigration\bin\Debug\DbUp.dll
+C:\Sample\WebApplication1\DBMigration\bin\Debug\DbUp.pdb
+C:\Sample\WebApplication1\DBMigration\bin\Debug\DbUp.xml
+C:\Sample\WebApplication1\DBMigration\obj\Debug\DBMigration.exe
+C:\Sample\WebApplication1\DBMigration\obj\Debug\DBMigration.pdb
